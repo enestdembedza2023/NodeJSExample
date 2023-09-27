@@ -1,11 +1,14 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "My First Json Project",
+  "description": "MY FIRST JSON PROJECT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Enest Dembedza",
+  "keywords": [
+    "JSON"
+  ],
+  "author": "ENEST DEMBEDZA",
   "license": "ISC"
 }
