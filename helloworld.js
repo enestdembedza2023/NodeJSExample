@@ -1,2 +1,2 @@
-const firstName = "Enest Dembedza"; // Display my name
-console.log(`Hello ${firstName}`);  // Print the name of on the screen
+const firstName = "Enest Dembedza";
+console.log(`Hello ${firstName}`);
