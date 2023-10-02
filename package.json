@@ -4,8 +4,18 @@
   "description": "MY FIRST NODEJS PROJECT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node helloworld.js"
   },
   "author": "ENEST DEMBEDZA",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enestdembedza2023/NodeJSExample.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/enestdembedza2023/NodeJSExample/issues"
+  },
+  "homepage": "https://github.com/enestdembedza2023/NodeJSExample#readme"
 }
